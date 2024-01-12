@@ -10,7 +10,7 @@
 
 🤝 I can help you in your journey as a developer
 
-💬 Ask me about MySQL, ETL, DataStage, Python, Tableau, PowerBI, SQL, Azure 
+💬 Ask me about MySQL, ETL, Django, .Net, Python, Tableau, PowerBI, SQL, Azure 
 
 📄 Reach out to me on Linkedin https://www.linkedin.com/in/shraddha-teredesai/
 
