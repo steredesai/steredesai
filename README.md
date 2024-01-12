@@ -1,16 +1,21 @@
-### Hi there 👋
+👋 Hi, I’m Shraddha Teredesai
 
-<!--
-**steredesai/steredesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in Data Science/Software Engineering/ Data Analyst/Business Intelligence
 
-Here are some ideas to get you started:
+ I’m currently pursuing Masters in Information Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Python, Django, Cloud Computing, PowerBI, SQL, DataWarehouse
+
+👯 I’m looking to collaborate on development projects
+
+🤝 I can help you in your journey as a developer
+
+💬 Ask me about MySQL, ETL, DataStage, Python, Tableau, PowerBI, SQL, Azure 
+
+📄 Reach out to me on Linkedin https://www.linkedin.com/in/shraddha-teredesai/
+
+⚡ Fun fact I love dogs ❤
+
+🌱 I have more than 2 years of experience in  and looking forward to work in Data Analytics field/Data Engineer
+
+📫 How to reach me steredesai@binghamton.edu
