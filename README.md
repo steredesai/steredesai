@@ -3,12 +3,8 @@
 Versatile IT professional with a Master's in Information Systems and expertise in Python, data analytics, and project management. Proven track record in designing and implementing impactful solutions, optimizing processes, and driving successful projects. Experienced in database management, data science, and proficient in a range of technical tools and frameworks.
 
 ## Educational Qualifications
-- **Master of Science, Information Systems**
-  - State University of New York at Binghamton, NY
-  - Relevant Coursework: Database Management Systems, Data Mining, Data Science, Business Intelligence, Data Analytics, Data Modeling, Data Visualization, Python Programming.
-
-- **Bachelor of Science, Electronics Engineering**
-  - University of Mumbai
+🎓 Pursuing Masters in Information Systems at Binghamton University(DEC 2024)
+Concentration: Business Analytics, Data Processing, Predictive Modeling, Data Warehousing Concepts
 
 ## Technical Skills
 - **Languages:** Python (Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, Seaborn), HTML, CSS, C#, SQL
