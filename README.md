@@ -1,4 +1,4 @@
-# Shraddha Teredesai - IT Professional
+# Shraddha Teredesai - Data Scientist
 
 ## Contact Information
 - **Phone:** +1 (551) 261-0642
