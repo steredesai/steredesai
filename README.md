@@ -1,9 +1,9 @@
 # Shraddha Teredesai - Data Scientist
 
-Versatile IT professional with a Master's in Information Systems and expertise in Python, data analytics, and project management. Proven track record in designing and implementing impactful solutions, optimizing processes, and driving successful projects. Experienced in database management, data science, and proficient in a range of technical tools and frameworks.
+Data Analyst with 3+ years of experience specializing in automated data pipelines, predictive modeling, and cloud integration using Python, SQL, and Google Cloud Platform. Proficient in advanced data analysis, machine learning, ETL processes, data visualization (Tableau, Power BI), and database management (MySQL, MongoDB, PostgreSQL). Currently pursuing a Master's in Information Systems at Binghamton University, with a focus on leveraging data-driven insights to solve complex business challenges. Skilled in improving decision-making processes, optimizing workflows, and collaborating with cross-functional teams to deliver impactful solutions.
 
 ## Educational Qualifications
-🎓 Pursuing Masters in Information Systems at Binghamton University(DEC 2024)
+🎓 Pursuing Masters in Information Systems at Binghamton University(May 2025)
 Concentration: Business Analytics, Data Processing, Predictive Modeling, Data Warehousing Concepts
 
 ## Technical Skills
@@ -16,6 +16,6 @@ Concentration: Business Analytics, Data Processing, Predictive Modeling, Data Wa
 
   ## Contact Information
 - **Phone:** +1 (551) 261-0642
-- **Email:** steredesai@binghamton.edu
+- **Email:** steredesai98@gmail.com
 - **LinkedIn:** [Shraddha Teredesai](www.linkedin.com/in/shraddha-teredesai)
 
