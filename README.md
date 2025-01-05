@@ -13,7 +13,7 @@ Concentration: Business Analytics, Data Processing, Predictive Modeling, ETL Pro
 ---
 
 ## **Technical Skills**  
-- **Programming & Scripting:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, C#, Bash  
+- **Programming & Scripting:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, C#, Unix
 - **Data Processing & ETL Tools:** SSIS, Airflow, Apache Spark  
 - **Data Visualization Tools:** Power BI, Tableau, Microsoft Excel  
 - **Databases:** MySQL, MongoDB, PostgreSQL, Microsoft Azure SQL Database  
