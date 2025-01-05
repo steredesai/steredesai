@@ -1,21 +1,41 @@
-# Shraddha Teredesai - Data Scientist
+# Shraddha Teredesai - Data Engineer  
 
-Data Analyst with 3+ years of experience specializing in automated data pipelines, predictive modeling, and cloud integration using Python, SQL, and Google Cloud Platform. Proficient in advanced data analysis, machine learning, ETL processes, data visualization (Tableau, Power BI), and database management (MySQL, MongoDB, PostgreSQL). Currently pursuing a Master's in Information Systems at Binghamton University, with a focus on leveraging data-driven insights to solve complex business challenges. Skilled in improving decision-making processes, optimizing workflows, and collaborating with cross-functional teams to deliver impactful solutions.
+**Data Engineer with 3+ years of experience** specializing in designing and optimizing scalable ETL pipelines, implementing data transformation workflows, and integrating cloud solutions using **Python, SQL**, and **Azure/AWS**. Proficient in advanced data processing, cloud-based analytics, and database management with expertise in tools such as **SSIS**, **Apache Spark**, and **Airflow**. Skilled in leveraging **data visualization tools** (Tableau, Power BI) and conducting comprehensive data analysis to support strategic decision-making. Currently pursuing a Master's in Information Systems at Binghamton University, focusing on predictive modeling, data warehousing, and scalable infrastructure.  
 
-## Educational Qualifications
-🎓 Pursuing Masters in Information Systems at Binghamton University(May 2025)
-Concentration: Business Analytics, Data Processing, Predictive Modeling, Data Warehousing Concepts
+With a strong track record of collaborating with cross-functional teams, improving decision-making processes, and automating workflows, I am passionate about solving complex business challenges and enabling data-driven innovation.  
 
-## Technical Skills
-- **Languages:** Python (Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, Seaborn), HTML, CSS, C#, SQL
-- **Analytical Tools:** Microsoft Power BI, Microsoft Excel, Tableau, JIRA
-- **Databases:** MySQL, MongoDB, Microsoft SQL Server, Microsoft Azure SQL Database
-- **Framework:** ASP.NET, Django
-- **Cloud Provider:** Microsoft Azure
-- **Other Tools:** Service Now, GitHub, JIRA.
+---
 
-  ## Contact Information
-- **Phone:** +1 (551) 261-0642
-- **Email:** steredesai98@gmail.com
-- **LinkedIn:** [Shraddha Teredesai](www.linkedin.com/in/shraddha-teredesai)
+## **Educational Qualifications**  
+🎓 **Master's in Information Systems** - Binghamton University, SUNY (Expected: May 2025)  
+Concentration: Business Analytics, Data Processing, Predictive Modeling, ETL Processes, Data Warehousing  
 
+---
+
+## **Technical Skills**  
+- **Programming & Scripting:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, C#, Bash  
+- **Data Processing & ETL Tools:** SSIS, Airflow, Apache Spark  
+- **Data Visualization Tools:** Power BI, Tableau, Microsoft Excel  
+- **Databases:** MySQL, MongoDB, PostgreSQL, Microsoft Azure SQL Database  
+- **Cloud Platforms:** Azure, AWS  
+- **Frameworks:** Django, ASP.NET  
+- **Tools & Other Technologies:** Git, Service Now, JIRA  
+
+---
+
+## **Experience Highlights**  
+- Built and optimized automated **ETL pipelines** using SSIS, Python, and Airflow, improving data processing efficiency by 40%.  
+- Streamlined data workflows by integrating datasets from various sources such as **Oracle**, **Google BigQuery**, and **MongoDB**, leveraging **MDM-based reference matching** to ensure accuracy.  
+- Orchestrated data pipelines on **Azure** and **Snowflake**, managing high-volume data and enabling actionable insights for a banking client.  
+- Designed data visualization dashboards in Tableau and Power BI, driving strategic decisions through advanced analytics and reporting.  
+- Implemented predictive modeling solutions using Python and SQL, delivering impactful insights for cloud-based projects and business needs.  
+
+---
+
+## **Contact Information**  
+- **Phone:** +1 (551) 261-0643  
+- **Email:** shraddha.teredesai98@gmail.com  
+- **LinkedIn:** [Shraddha Teredesai](www.linkedin.com/in/shraddha-teredesai)  
+- **GitHub:** [GitHub Profile](https://github.com/steredesai)  
+
+---
